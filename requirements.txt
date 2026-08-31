@@ -1,0 +1,8 @@
+# Direct runtime dependencies used by CareerForge AI
+chromadb
+gradio
+langchain-groq
+langgraph
+pdfplumber
+pydantic
+sentence-transformers
